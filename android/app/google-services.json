@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782548701403",
+    "project_id": "kospayapp",
+    "storage_bucket": "kospayapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782548701403:android:709d16901e6f71f7d87cfe",
+        "android_client_info": {
+          "package_name": "com.example.kospay_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOI0Gh3mMtlANf_1wxEKp6xprtxNA6UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
